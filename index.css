@@ -1,0 +1,14 @@
+body{
+    background-color: darkcyan;
+}
+.main{
+    margin-top: 40px;
+}
+#a{
+    color: crimson;
+}
+.cmain {
+    justify-content: center;
+   display: flex;
+   align-items: center;
+}
